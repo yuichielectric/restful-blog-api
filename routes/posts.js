@@ -1,4 +1,4 @@
-const store = require('./store')
+const store = require('../data/store')
 
 module.exports = {
   getPosts (req, res) {
